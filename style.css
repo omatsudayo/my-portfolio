@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background-image: url("black.jpg");
+  background-image: url("sea.png");
   background-size: cover;
   height: 100vh;
   display: flex;

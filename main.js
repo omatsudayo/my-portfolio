@@ -7,20 +7,20 @@ const feedback = document.getElementById("feedback");
 
 // クイズの内容
 const quiz = {
-  text: "まつりんのペットの名前はなんでしょう？",
+  text: "What's the name of Matsuri's cat？",
   image: "images/cat.png",
   choices: [
     {
-      text: "ぴゅう様",
-      feedback: "正解！！！",
+      text: "pyu-",
+      feedback: "⭕️💜🐱",
     },
     {
-      text: "りゅう様",
-      feedback: "誰やねん！",
+      text: "ryu-",
+      feedback: "❌",
     },
     {
-      text: "むー様",
-      feedback: "可愛いね！けど違うよ！",
+      text: "mu-",
+      feedback: "❌",
     },
   ],
 };
